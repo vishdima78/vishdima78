@@ -3,16 +3,17 @@
 </div>  
   
 
-### *<div align="center">Привет, меня зовут Дмитрий, я Java Developer 🖥️</div>*  
+### *<div align="center">Привет, меня зовут Дмитрий, я Java Developer 🖥️</div>*  <br/>
   
 
--  Есть опыт в написании полноценных Spring приложений  🤖  
-  
-
-- Умение работы с БД, знаю что происходит под капотом 🚗  
-  
-
-- Мои проекты: https://github.com/vishdima78?tab=repositories 🍃  
+✔  Успешно реализовал проект по учету данных для библиотеки с использованием паттерна MVC и Spring Boot, что позволило создать модульное и легко поддерживаемое приложение.  <br/><br/>
+✔ В процессе работы я настраивал взаимодействие с базой данных PostgreSQL, применяя Hibernate, JDBC и JPA. 
+Это помогло мне эффективно управлять данными и обеспечивать хорошую производительность приложения. <br/><br/>
+✔ Имею опыт сборки и упаковки приложений с Docker, включая создание контейнеров, настройку Dockerfile и управление зависимостями. <br/><br/>
+✔ Умею покрывать код unit-тестами с помощью JUnit  и Mockito. <br/><br/>
+✔ Обладаю опытом командной работы и эффективной коммуникации, используя Jira для управления задачами. <br/><br/>
+✔ Готов развиваться в быстром темпе для углубления своих знаний в реалиях современного стека, так как заинтересован в профессиональном и карьерном росте. <br/><br/>
+✔ Стек: Java, SQL, Spring, Git, Linux, Docker, Hibernate, JUnit, Mockito <br/>
   
 
 <br/>  
@@ -25,7 +26,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <!-- <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>   -->
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<!-- <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>   -->
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>  
